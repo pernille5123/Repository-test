@@ -11,3 +11,7 @@ Til at lave en list bruger man '*'
 Mine yndlingsfilm:
 * Pitch Perfect
 * Pitch Perfect 2
+
+## Her er en h2
+
+# Her er en h1
